@@ -4,6 +4,7 @@ name:     Aleš Nunvář		# běžně používáné jméno
 fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- kppak
 - kandidat-chrudim-2018
 img: people/ales-nunvar.jpg           # 165 x 220
 description: člen Pirátské strany
