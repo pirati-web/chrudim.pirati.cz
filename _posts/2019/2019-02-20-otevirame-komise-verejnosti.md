@@ -9,7 +9,7 @@ author: Aleš Nunvář, místostarosta města Chrudim
 
 image: assets/img/posts/2019/radnice.jpg #751x422
 ---
-
+zde
 V souladu s pirátskou politikou podnikáme kroky k zapojení veřejnosti do rozhodování města Chrudimi. Otevíráme komise veřejnosti, rušíme automatickou a doživotní mlčenlivost na vše, co se v komisích projednává, a umožňujeme zapojení dvěma stovkám aktivních spoluobčanů do práce v 17 komisích včetně 3 nových. S tím měníme i způsob odměňování, kdy vyrovnáváme ohodnocení občanů a zastupitelů pracujících v komisích.
 
 Komise města, jako poradní a iniciační orgány Rady města, jsme zřídili rozhodnutím rady R/36/2019 ze dne 28.1.2019. Zároveň jsme i upravili jednací řád komisí, změnili jejich status z neveřejných na veřejné, zrušili jsme automatickou mlčenlivost a zavedli povinnost komise scházet se minimálně jednou za 3 měsíce. [Více o komisích, včetně seznamu jejich členů a kontaktů na tajemníky](http://www.chrudim.eu/vybory-a-komise/ds-1092/p1=1113).
