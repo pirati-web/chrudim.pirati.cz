@@ -2,7 +2,6 @@
 layout: post
 category: CLANKY
 title: Piráti podporují farmářské trhy v Chrasti
-
 date: 2019-11-04T00:00:00+02:00
 tags: 
       - trhy
