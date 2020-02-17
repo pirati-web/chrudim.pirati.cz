@@ -8,7 +8,7 @@ tags:
       - chrudim
       - report
 author: Piráti MS Chrudimsko
-image: assets/img/posts/2020/campaign-creators-gMsnXqILjp4-unsplash.jpg #751x422
+image: assets/img/posts/2020/ales_pavel_doku.jpg #751x422
 ---
 
 Od ledna budeme s veřejností pravidelně sdílet informace o činnosti pirátů na chrudimské radnici. 
