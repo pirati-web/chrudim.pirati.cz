@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - mpchr
 img: people/sara-zavrelova.jpg           # 165 x 220
-description: členka krajského sdružení Pardubického kraje # kratký popis, max 160 znaků
+description: členka místního sdružení Chrudimsko # kratký popis, max 160 znaků
 candidatedesc: 
 ordpms: 3
 ordkomunal2018: 
