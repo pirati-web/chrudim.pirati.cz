@@ -6,6 +6,7 @@ category:  # kategorie: rp, praha, vary, hradec, jmk, senat
 - pms
 - kandidatchr18
 - pak
+- kppak
 - kandidat-chrudim-2018
 - pmschr
 img: people/ales-nunvar.jpg           # 165 x 220
