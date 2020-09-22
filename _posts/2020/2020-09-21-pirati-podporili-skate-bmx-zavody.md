@@ -17,9 +17,9 @@ image: assets/img/posts/2020/skatechrudim.jpg #751x422
 ## Projekt
 
 Sám [Aleš Nunvář](https://pardubicky.pirati.cz/lide/ales-nunvar/) je spokojený z dokončení realizace.
-
 >„Mám radost, že se celý projekt podařilo dotáhnout do konce. Dnešní den je krásným vyvrcholením usilovné práce nejen mě, ale i těch, kteří se na stavbě skateparku podíleli,” uvedl Nunvář. 
->„Za minulého vedení radnice byla již vypracována studie, která se však musela dvakrát předělávat, aby vyhovovala finančním možnostem města. Ještě v květnu padaly návrhy na zastavení stavby, včetně obav pro kolik lidí se vůbec staví. Jsem rád, že se nám podařilo záměr obhájit. Vysoká návštěvnost skateparku je tou nejlepší odpovědí,”dodal Aleš Nunvář.
+
+>„Za minulého vedení radnice byla již vypracována studie, která se však musela dvakrát předělávat, aby vyhovovala finančním možnostem města. Ještě v květnu padaly návrhy na zastavení stavby, včetně obav pro kolik lidí se vůbec staví. Jsem rád, že se nám podařilo záměr obhájit. Vysoká návštěvnost skateparku je tou nejlepší odpovědí,” dodal Aleš Nunvář.
 
 
 ## Debata o regulaci konopí
