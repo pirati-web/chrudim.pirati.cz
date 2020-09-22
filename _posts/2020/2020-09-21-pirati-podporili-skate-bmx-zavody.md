@@ -38,4 +38,6 @@ Nečekaným překvapením pro všechny zúčastněné byl předseda Pirátů [Iv
 
 
 Těšíme se, že si nově vybudovaný skatepark  budou moci užít příznivci netradičních sportů ze širokého okolí a přejeme všem pokud možno vždy zdařilý dopad. 
-![Skatepark](/assets/img/posts/2020/skatechrudim.jpg)
+
+
+![Skatepark](/assets/img/posts/2020/skatechrudim2.jpg)
