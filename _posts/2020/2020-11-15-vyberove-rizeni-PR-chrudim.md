@@ -41,7 +41,7 @@ image: assets/img/posts/2020/inzerat.jpg #751x422
 
 **Požadavky na zařazení do výběrového řízení:**
 
-*Uchazeč vyplní tento **[formulář](https://docs.google.com/forms/d/e/1FAIpQLSfekisbUMP9ftIqubC0IZiODOvNFYAgJhyeRY7TZ9jwJNkRwA/viewform)** a zašle CV na jana.kolarikova@pirati.cz a nikola.stepankova@pirati.cz do 26.11.2020*
+*Uchazeč vyplní tento **[formulář](https://docs.google.com/forms/d/e/1FAIpQLSfekisbUMP9ftIqubC0IZiODOvNFYAgJhyeRY7TZ9jwJNkRwA/viewform)** a zašle CV na jana.kolarikova@pirati.cz a nikola.stepankova@pirati.cz do 10.12. 2020*
 
 **Termín nástupu:**
 co nejdříve
