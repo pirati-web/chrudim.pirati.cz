@@ -144,4 +144,4 @@ Jsme přesvědčeni o tom, že ve všech výše uvedených oblastech jsme za upl
   
   
 
-**Pavel Štěpánek**, Aleš Nunvář, Daniel Lebduška a Piráti Chrudim
+**[Pavel Štěpánek](https://www.pirati.cz/lide/pavel-stepanek/)**, [Aleš Nunvář](https://pardubicky.pirati.cz/lide/ales-nunvar/), [Daniel Lebduška](https://pardubicky.pirati.cz/lide/daniel-lebduska/) a Piráti Chrudim
