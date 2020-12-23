@@ -135,8 +135,7 @@ Velký a pravděpodobně ostrý boj lze očekávat v oblasti vodárenství, což
 
   
 
-Velkou školou pro nás bylo vypořádat se se dvěma nouzovými stavy vyhlášenými vládou a dosud bezprecedentními nařízeními a ohrožením zdraví obyvatel. Pomáhali jsme organizovat šití i distribuci roušek, tisk štítů na 3D tiskárnách, koordinovali jsme dobrovolníky a každý týden zasedal krizový štáb, kde jsme řešili další rychle se měnící situaci a pružně na ni reagovali.
-
+Velkou školou pro nás bylo vypořádat se se dvěma nouzovými stavy vyhlášenými vládou a dosud bezprecedentními nařízeními a ohrožením zdraví obyvatel. Pomáhali jsme organizovat šití i distribuci roušek, tisk štítů na 3D tiskárnách, koordinovali jsme dobrovolníky a každý týden byla situace operativně řešena prostřednictvím pravidelných videokonferencí s účastí vedení města, krizového řízení a dalších, kde jsme řešili další rychle se měnící situaci a pružně na ni reagovali
   
 
 Jsme přesvědčeni o tom, že ve všech výše uvedených oblastech jsme za uplynulé dva roky odvedli na chrudimské radnici dobrou práci. Ve zbývajících dvou letech, které zbývají do konce našich mandátů, se budeme snažit důsledně realizovat další body našeho programu při zachování koalice, jejíž jsme součástí. Máme za to, že i přes drobné dílčí neshody, které ke každému vztahu patří, je spolupráce na dobré úrovni. Každý další den nám přináší nové výzvy které se i nadále budeme snažit splnit. S Vámi to zvládneme.
