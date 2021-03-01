@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Aleš Nunvář Záleží mi na prostředí, kde žiju
+title: Aleš Nunvář - Záleží mi na prostředí, kde žiju
 date: 2021-02-26T00:00:00+01:00
 tags: 
       - Aleš Nunvář
@@ -24,6 +24,8 @@ Dlouhodobě jsem zaměřen na město, kde aktivně působím, tedy Chrudim. Celo
 
 Vzděláním a praxí mám blízko k průmyslu, lidsky k životnímu prostředí. Proto se i v Chrudimi aktivně věnuji odpadovému hospodářství a obdobně bych pokračoval i ve sněmovně. Dále bych se chtěl věnovat obecným tématům životního prostředí, jako např. opatřením na zadržování vody v krajině, s cílem omezit dopady rostoucího sucha na přírodu. S tím úzce souvisí péče o půdu, kdy zejména v případech propachtování velkými zemědělskými podniky půda ve velkém degraduje. Řešením by byla změna přidělování zemědělských dotací ve prospěch šetrněji a ekologičtěji hospodařících zemědělců, aktuálně je to plošně, tzv. na hektar. Vzhledem ke své průmyslové praxi dokáži chápat jak zájmy výrobců, tak ochránců přírody, a nemohu být nazýván „zeleným ekoteroristou“, což považuji za výhodu.
 
+![Aleš Nunvář uklízí](/assets/img/posts/2021/alesN1.jpg)
+
 ***A co by bylo dál s Tvou funkcí místostarosty?***
 
 Předně je nutné realisticky přiznat, že mé zvolení do PSP z 6. místa kandidátky není pravděpodobné. Kdyby k tomu přece jen došlo, nepovažoval bych za správné sedět na dvou židlích zároveň, a tedy bych pozici místostarosty Chrudimi opustil. Nicméně je výhodou, že nejsem na chrudimské radnici za Piráty sám a Pavel Štěpánek by mé gesce částečně převzal.
@@ -35,3 +37,6 @@ Jógu cvičím léta a letos to bude 10 let, co i vedu kurz jógy a meditace, ak
 Navíc mým oblíbencem je Mahátma Gándhí, který i díky každodenní jógové praxi dokázal neúnavně, a hlavně nenásilně, bojovat za svobodnou Indii bez nadvlády Británie. Já mám ovšem skromnější cíle. Chtěl bych i v souvislosti s tématy životního prostředí, o nichž jsem se zmínil výše, zvýšit povědomí o prospěšnosti vegetariánské stravy, kterou sám praktikuji už také více než 10 let. Ta je přínosem nejen pro jedince, ale i pro společnost a celou planetu.
 
 Málo se třeba ví, že pokud by lidstvo přešlo na převážně rostlinnou stravu, tak by se mohla o polovinu zmenšit veškerá zemědělská plocha, protože je nyní využívaná k pěstování krmiv pro zvířata na porážku. To by mělo za důsledek zpomalení globálních změn klimatu a dalších vážných problémů, jako je například vymírání druhů, které se jinak zdají téměř nevyhnutelné a nezvratné. Ale jak se říká, naděje umírá poslední a já jsem optimista.
+
+![Aleš Nunvář Piráti](/assets/img/posts/2021/alesN2.jpg)
+
