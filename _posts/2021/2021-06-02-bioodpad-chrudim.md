@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Chrudim - Tříděním bio k nezvyšování poplatků za odpad.
+title: Chrudim - Tříděním bio k nezvyšování poplatků za odpad
 date: 2021-06-01T00:00:00+01:00
 tags: 
       - Aleš Nunvář
