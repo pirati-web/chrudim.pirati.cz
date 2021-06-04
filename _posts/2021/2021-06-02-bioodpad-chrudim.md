@@ -26,4 +26,6 @@ Třídit se vyplácí, je to naše povinnost a město je tu od toho, aby k tomu 
 
 Děkuji Vám, že třídíte. Informace o svozech bioodpadu naleznete na adrese [chrudim.eu/bioodpad](chrudim.eu/bioodpad).
 
-![aleš nunvář](/assets/img/posts/2020/alesnunvar.jpg)
+## [FACEBOOK Aleše Nunváře](https://www.facebook.com/PiratskyMistostarosta)
+
+![aleš nunvář](/assets/img/posts/2021/alesnunvar.jpg)
