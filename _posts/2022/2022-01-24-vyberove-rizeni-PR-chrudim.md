@@ -41,7 +41,7 @@ image: assets/img/posts/2020/inzerat.jpg #751x422
 
 **Požadavky na zařazení do výběrového řízení:**
 
-*Uchazeč vyplní tento **[formulář](https://docs.google.com/forms/d/1Czm3XprPNazRp0aFojeT8ZmVd2OnolbS-v-w8xFsKZ4/edit)** a zašle CV na  matej.kubicek@pirati.cz a nikola.stepankova@pirati.cz do 10.12. 2020*
+*Uchazeč vyplní tento **[formulář](https://docs.google.com/forms/d/1Czm3XprPNazRp0aFojeT8ZmVd2OnolbS-v-w8xFsKZ4/edit)** a zašle CV na  matej.kubicek@pirati.cz a nikola.stepankova@pirati.cz do 28.2.2022*
 
 **Termín nástupu:**
 co nejdříve
