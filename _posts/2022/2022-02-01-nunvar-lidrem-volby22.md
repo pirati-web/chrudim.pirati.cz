@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Koordinátor komunikace pro oblast Chrudimska
+title: Chrudimské piráty do komunálních voleb povede místostarosta Aleš Nunvář
 date: 2022-02-02T00:00:00+01:00
 tags: 
       - radnice
