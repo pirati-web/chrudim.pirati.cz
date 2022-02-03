@@ -27,5 +27,5 @@ Piráti za svého působení na chrudimské radnici zavedli **transparentní pri
 sděluje pirátský místostarosta Aleš Nunvář a dodává:  
 >„Nejvíce mě však vytěžují investice města. Dlouho opomíjená, ale o to potřebnější výstavba kanalizace v Medlešicích byla již zahájena. Mnoho staveb - jako třeba dopravní terminál, skatepark, sjezd ke sportovištím, rekonstrukce škol a školek - se podařilo dokončit. Připravujeme ale i investiční akce nové, z nich bych vybral tu největší. Získali jsme stavební povolení na rekonstrukci a přístavbu stávající sportovní haly na Tyršově náměstí. Tuto stavbu bychom rádi zahájili z počátku příštího roku.“
 
-Na pozici lídra vystřídal [Pavla Štěpánka](https://chrudim.pirati.cz/lide/pavel-stepanek/), který dovedl piráty do zastupitelstva v roce 2018 a společně s Alešem usedl na chrudimskou radnici. V letošních primárních volbách nekandiduje. 
+Na pozici lídra vystřídal [Pavla Štěpánka](https://chrudim.pirati.cz/lide/pavel-stepanek/), který dovedl piráty do zastupitelstva v roce 2018 a společně s Alešem usedl na chrudimskou radnici. V letošních volbách na lídra nekandidoval. 
 >"Cítím, že si potřebuji od politiky odpočinout a Aleš je dobrá volba. Jeho zkušenosti budou pro chrudimské zastupitelstvo přínosem. Přeji mu ve volbách mnoho štětí a v práci mnoho sil", **konstatuje Štěpánek.**
