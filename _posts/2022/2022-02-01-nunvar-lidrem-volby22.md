@@ -20,7 +20,7 @@ image: assets/img/posts/2022/ales_lidr_uvodka.png #751x422
 
 V roce **2018 byl zvolen do zastupitelstva města Chrudim**, kde je aktuálně neuvolněným **místostarostou**. Na starosti má odbory investic a životního prostředí, dále je určeným zastupitelem pro územní plán.
 
-Piráti za svého působení na chrudimské radnici zavedli **transparentní principy pirátské politiky, jako jsou například přímé přenosy ze zastupitelstva, jmenovité hlasování Rady města, participativní rozpočet, rozklikávací rozpočet a veřejnosti zpřístupněná otevřená jednání komisí města. Piráti dále zlepšili komunikaci s občany. Zavedli Mobilní rozhlas, zasadili se o častější veřejná projednání a nově zavádí i elektronickou verzi Zpravodaje města.**
+Piráti za svého působení na chrudimské radnici zavedli **transparentní principy pirátské politiky, jako jsou například přímé přenosy ze zastupitelstva, jmenovité hlasování Rady města, participativní rozpočet, rozklikávací rozpočet a veřejnosti zpřístupněná otevřená jednání komisí města. Piráti dále zlepšili komunikaci s občany. Zavedli aplikaci Mobilní rozhlas, zasadili se o častější veřejná projednání a nově zavádí i elektronickou verzi Zpravodaje města.**
 
 >„Osobně se zaměřuji na potřebné změny v odpadovém hospodářství města, kde jsme již zavedli adresný svoz bioodpadu, který letos rozšiřujeme na celé město. Dále bude tento rok probíhat evidence popelnic. Následovat budou řešení pro sídliště nebo pytlový svoz plastu a papíru,“ 
 
